@@ -6,7 +6,7 @@
 - 😄 Pronouns: ele/dele
 
 <div align="center">
-  <a href="https://github.com/johnicassere">  
+  <a href="https://github.com/johnicassere"></a>  
   <img height="150em" src="http://www.souzamattos.eng.br/wp-content/uploads/2016/03/loading-1200x600.jpg"/>
   <img height="150em" src="http://www.souzamattos.eng.br/wp-content/uploads/2016/03/loading-1200x600.jpg"/>
 </div>
