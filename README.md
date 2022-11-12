@@ -40,7 +40,6 @@
   
   <img align="center" alt="heroku" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg">
   
-  <img align="right" alt="junior" width="170" height="140" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D12AQFksex-2BQoFQ/article-cover_image-shrink_720_1280/0/1612241412507?e=1654732800&v=beta&t=f97_Ur7SioPTUJOecH9RyYsnD_QWfXI170D8AyM621g">
   
 </div>
   
