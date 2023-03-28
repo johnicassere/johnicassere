@@ -1,7 +1,7 @@
 ### Olá! Eu sou Johni Cassere👋
 
 
-- 🌱 Estudante Web Full Stack Na Blue EdTech 
+- 🌱 Estudante Web Full Stack 
 - 💬 Contate-me no email: johnicassere@hotmail.com
 - 😄 Pronouns: ele/dele
 
