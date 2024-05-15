@@ -5,11 +5,7 @@
 - 💬 Contate-me no email: johnicassere@hotmail.com
 - 😄 Pronouns: ele/dele
 
-<div align="center">
-  <a href="https://github.com/johnicassere">  
-  <img height="150em" src="http://www.souzamattos.eng.br/wp-content/uploads/2016/03/loading-1200x600.jpg"/>
-  <img height="150em" src="http://www.souzamattos.eng.br/wp-content/uploads/2016/03/loading-1200x600.jpg"/>
-</div>
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
